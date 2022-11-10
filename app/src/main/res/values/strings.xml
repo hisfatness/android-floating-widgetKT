@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">android-floating-widget</string>
     <string name="start_floating_widget">start floating widget</string>
+    <string name="capture_sequence">Capture sequence</string>
 </resources>
